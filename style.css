@@ -920,12 +920,9 @@ footer {
 
 .section-title {
     margin: 0 0 15px;
-
     font-size: 42px;
     line-height: 1.2;
-    font-weight: 700;
-
-    color: #111827;
+    font-weight: 700;   
 }
 
 .section-subtitle {
@@ -1073,4 +1070,8 @@ footer {
         padding: 22px;
     }
 
+}
+ 
+.section-title-white{
+ color: #00d9ff;
 }
