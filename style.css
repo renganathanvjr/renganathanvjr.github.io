@@ -379,7 +379,7 @@ section {
 
 .clients-section {
     padding: 80px 0;
-    background: #ffffff;
+    
 }
 
 .clients-section .container {
@@ -889,7 +889,7 @@ footer {
 
 .about-section {
     padding: 90px 0;
-    background: #ffffff;
+   /* background: #ffffff;*/
 }
 
 .about-section .container {
@@ -947,17 +947,11 @@ footer {
 /* Text */
 
 .about-text p {
-    margin: 0 0 20px;
-
-    font-size: 16px;
-    line-height: 1.8;
-
-    color: #4b5563;
+   
 }
 
 .about-text strong {
-    color: #111827;
-    font-weight: 600;
+    padding: 2px;
 }
 
 /* Skills */
@@ -1070,8 +1064,4 @@ footer {
         padding: 22px;
     }
 
-}
- 
-.section-title-white{
- color: #00d9ff;
 }
